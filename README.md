@@ -1,16 +1,17 @@
-## Hi there 👋
+## Sonay Yarayıcı
 
-<!--
-**sonayyarayici/sonayyarayici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Solo maker.** I design, build and ship mobile and web products end to end.
 
-Here are some ideas to get you started:
+Most of my work lives in private repositories, so this profile is quiet on purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+`Flutter` `Dart` `TypeScript` `JavaScript` `Node` `Python` `Firebase`
+
+### Currently
+
+Building in stealth. Open to selected consulting work.
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/sonay-yarayici)
